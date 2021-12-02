@@ -1,0 +1,7 @@
+html{
+    box-sizing: border-box;
+}
+body{
+/* Gradient in RGBA */
+background: linear-gradient(to bottom, rgba(245, 245, 243, 1) 0%, 21.36363685131073%, rgba(232, 213, 196, 1) 42.72727370262146%, 71.36363685131073%, rgba(115, 118, 125, 1) 100%) no-repeat;
+}
